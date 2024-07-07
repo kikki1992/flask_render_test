@@ -1,2 +1,5 @@
 # flask_render_test
 Renderに後悔する方法のテスト
+
+現在のpython仮想環境内にインストールしたライブラリをrequirements.txtに書き出し
+pip freeze > requirements.txt
